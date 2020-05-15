@@ -44,5 +44,3 @@ WebUI.setText(findTestObject('Object Repository/Page_Kitabisacom - Indonesias Fu
 
 WebUI.click(findTestObject('Page_Kitabisacom - Indonesias Fundraising Platform/span_LANJUTKAN PEMBAYARAN'))
 
-WebUI.click(findTestObject('Object Repository/Page_Kitabisacom - Indonesias Fundraising Platform/img_Donasi_style__ArrowImg-sc-1qhccvk-3 hTwjl'))
-
