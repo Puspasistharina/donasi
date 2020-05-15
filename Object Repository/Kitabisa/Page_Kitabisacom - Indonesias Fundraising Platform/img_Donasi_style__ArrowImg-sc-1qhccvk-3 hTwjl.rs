@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Donasi_style__ArrowImg-sc-1qhccvk-3 hTwjl</name>
+   <tag></tag>
+   <elementGuidId>ebf60d32-5b10-4473-8d4c-36adb413983b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='summary-page']/header/div/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAMdJREFUWAljYBjK4P///1IgPCB+gFp+E0iDMH0dgWQ5kAkG9HME0DpQsIMsRAYfgBwTmkcF0BJclpuPWk6zEBgNduSkDmSDUvtogqNZemMYiATHCPMOyHIgez8Qq8HEoPRrIP0ETYwa3H5GRsbFLCCT8FgOkhaFYhCbmkAMZBgTNU0kxyxwCACD4hkwFByBBtAzCl5hOHggEuGoIzBCACYwGh2jIQELARg9miaICAnaN8vxOIJ+HRMsjqC/5WiOoG+/EGY5tWgAG1NvAbnH430AAAAASUVORK5CYII=</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__ArrowImg-sc-1qhccvk-3 hTwjl</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;summary-page&quot;)/header[@class=&quot;style__HeaderWrapper-sc-1qhccvk-0 hFPMZN&quot;]/div[@class=&quot;style__HeaderContent-sc-1qhccvk-1 kynsNH&quot;]/span[@class=&quot;style__Arrow-sc-1qhccvk-2 iRIMJW&quot;]/img[@class=&quot;style__ArrowImg-sc-1qhccvk-3 hTwjl&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='summary-page']/header/div/span/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Donasi'])[1]/preceding::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instruksi Pembayaran'])[1]/preceding::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAMdJREFUWAljYBjK4P///1IgPCB+gFp+E0iDMH0dgWQ5kAkG9HME0DpQsIMsRAYfgBwTmkcF0BJclpuPWk6zEBgNduSkDmSDUvtogqNZemMYiATHCPMOyHIgez8Qq8HEoPRrIP0ETYwa3H5GRsbFLCCT8FgOkhaFYhCbmkAMZBgTNU0kxyxwCACD4hkwFByBBtAzCl5hOHggEuGoIzBCACYwGh2jIQELARg9miaICAnaN8vxOIJ+HRMsjqC/5WiOoG+/EGY5tWgAG1NvAbnH430AAAAASUVORK5CYII=')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+   </webElementXpaths>
+</WebElementEntity>
